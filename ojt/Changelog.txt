@@ -25,6 +25,3 @@
 # CHANGE radar chart to horizontal chart
 # REMOVE search from admin page
 # REMOVE the CITCS prefix from admin page
-
-# BUGGED: admin settings, activity log and logout not working
-# some icon not match with the label
