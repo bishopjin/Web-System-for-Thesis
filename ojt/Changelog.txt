@@ -1,0 +1,30 @@
+# 10/03/2019
+# ADD round() function for getDataset(), 
+# getGenderDataset() and getCourseDataset()
+# in functions.php
+
+# DISABLE the nav link for survey.php
+# in result.php
+
+# RE-CODE the getDatasets() function
+# from functions.php
+
+# ADD control to check if the user 
+# already exist in register() from functions.php
+
+
+# 10/06/2019
+# FIX register() bug, not registering user from functions.php
+# NEW SET of training data
+# RE-ADJUSTMENT of trainingData(), saveAns() and predict()
+# from functions,php
+
+# 10/08/2019
+# ADD descriotion to result.php via getSoftSkillScore() in functions.php
+# ADD description(table) to index.php 
+# CHANGE radar chart to horizontal chart
+# REMOVE search from admin page
+# REMOVE the CITCS prefix from admin page
+
+# BUGGED: admin settings, activity log and logout not working
+# some icon not match with the label
